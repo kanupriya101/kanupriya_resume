@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  25 MAY 2015 17:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  25 MAY 2015 17:55
 entering extended mode
 **kanupriya_resume.tex
 (D:\EYSIP\myresume\kanupriya_resume.tex
@@ -251,25 +251,32 @@ Overfull \hbox (9.8333pt too wide) in paragraph at lines 32--40
 [][]  
  []
 
-[1
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
+(D:\miktex\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
+ [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/EYSIP/myresume/Untitle
-d.jpg>] (D:\EYSIP\myresume\kanupriya_resume.aux) ) 
+d.jpg>]
+(D:\EYSIP\myresume\kanupriya_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2556 strings out of 493921
- 31669 string characters out of 3154500
+ 2573 strings out of 493921
+ 31921 string characters out of 3154500
  93475 words of memory out of 3000000
- 5832 multiletter control sequences out of 15000+200000
+ 5846 multiletter control sequences out of 15000+200000
  9376 words of font info for 36 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,6n,24p,334b,182s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/miktex/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb><D:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:
-/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/miktex/fonts/type1/public/
-amsfonts/cm/cmtt12.pfb>
-Output written on kanupriya_resume.pdf (1 page, 54538 bytes).
+ 27i,6n,24p,334b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/miktex/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><D:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/miktex/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/miktex/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><D:/miktex/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on kanupriya_resume.pdf (1 page, 62380 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
